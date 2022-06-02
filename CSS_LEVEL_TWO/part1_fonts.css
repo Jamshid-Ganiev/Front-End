@@ -1,0 +1,42 @@
+/*Fonts on Windows:
+https://en.wikipedia.org/wiki/List_of_typefaces_included_with_Microsoft_Windows
+Fonts on Macs:
+https://en.wikipedia.org/wiki/List_of_typefaces_included_with_macOSfon
+General Font Information:
+http://www.cssfontstack.com/*/
+
+h1{
+  font-family: "Arial";
+}
+
+p{
+  font-family: monospace;
+}
+
+body{
+  font-size: 20px;
+}
+
+p{
+  font-size: 20px;
+}
+#two{
+  font-size: 1.0em;
+}
+
+/* FONT PROPERTIES */
+p{
+  font-style: italic;
+  font-weight: bold;
+}
+
+/* TEXT PROPERTIES */
+h1{
+  text-align: center;
+}
+
+/* IF YOU WANT TO USE YOUR OWN DOWNLOAD CUSTOM FONTS: */
+/* @font-face{
+font-family:your_font_name;
+src: url(path/to/woff_file.woff)
+} */

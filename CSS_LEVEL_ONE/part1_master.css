@@ -1,0 +1,18 @@
+/*selected tag{
+property: value;
+}*/
+ h1{
+   color: green;
+ }
+
+ li{
+   color: rgb(255,97,0)
+ }
+/* mostly used color method #HEX */
+ p{
+   color: #0895a8
+ }
+
+h4{
+  color: rgba(255,97,0, 1)
+}

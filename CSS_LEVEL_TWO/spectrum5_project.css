@@ -1,0 +1,35 @@
+h1{
+  font-family: 'Rubik Beastly', cursive;
+  text-align: center;
+}
+
+.artwork{
+  margin: auto;
+}
+
+
+td{
+  height: 500px;
+  width: 250px;
+  border: 6px solid white;
+}
+
+#one{
+  background-color: #264653;
+}
+
+#two{
+  background-color: #2a9d8f;
+}
+
+#three{
+  background-color: #e9c46a;
+}
+
+#four{
+  background-color:#f4a261;
+}
+
+#five{
+  background-color: #e76f51;
+}

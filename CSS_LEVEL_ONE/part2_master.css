@@ -1,0 +1,23 @@
+/* Selected tag{
+    property: value;
+} */
+
+body{
+  background: url(https://images.theconversation.com/files/370685/original/file-20201123-13-x1rq79.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1200&h=1200.0&fit=crop);
+}
+
+div{
+  background-color: blue;
+  border-color: orange;
+  border-width: 5 px;
+  border-style: double;
+}
+
+p{
+  color: yellow
+}
+
+span{
+  background: red;
+  color: black;
+}

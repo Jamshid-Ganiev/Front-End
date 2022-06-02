@@ -1,0 +1,42 @@
+body{
+  font-family: 'Mochiy Pop P One', sans-serif;
+  background-color: #011627;
+  color: white;
+  text-align: center;
+  border: 40px solid #42f5c8;
+  border-top: 0px;
+  margin: 0px;
+  /* margin-top: 5px;
+  padding: 0px 110px 100px 100px;
+  margin: 0px; */
+}
+
+#submit_button{
+  padding: 25px;
+  border-radius: 25px;
+  background-color: orange;
+}
+p{
+  padding: 5%;
+  padding-left: 20%;
+  padding-right: 20%;
+}
+
+/* input{
+  font-size: 20px;
+} */
+
+form{
+  font-size: 1.5em;
+  margin-bottom: 10pxl
+}
+
+#submit{
+  background-color: #FF9F1C;
+  height: 80px;
+  width 150px;
+  margin: 4px
+  margin-top: 12px;
+  font-size: 1.5em;
+  border-radius: 25px;
+}
